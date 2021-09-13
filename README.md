@@ -37,7 +37,7 @@ https://dakarakoso.github.io/Joke-Teller/
 
 ## About The Project
 
-This is a random Joke Teller. In this project...
+This is a random Joke Teller. In this project, I used a text-to-speech API to tell random jokes. When the users presses the button it will tell a programmer joke.
 
 ### Built With
 
@@ -48,7 +48,7 @@ This is a random Joke Teller. In this project...
 
 ## Usage
 
-![Joke Teller]()
+![Joke Teller](https://github.com/Dakarakoso/Joke-Teller/blob/main/images/usage.gif)
 
 <!-- CONTACT -->
 
