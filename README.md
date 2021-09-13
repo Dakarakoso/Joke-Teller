@@ -14,6 +14,8 @@
 
 ### LIVE
 
+https://dakarakoso.github.io/Joke-Teller/
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of contents
@@ -35,25 +37,25 @@
 
 ## About The Project
 
-This is a random Joke Teller. In this project, I used an asynchronous fetch request to arrest API in order to get random quotes. Users can press the button "new quote" and get different quotes. They can also share the quote in Twitter by pressing the button on the left.
+This is a random Joke Teller. In this project...
 
 ### Built With
 
 - Html
 - CSS
 - JavaScript
-- [Api-Quotes](https://type.fit/api/quotes)
+- [Text-to-SpeechAPI](http://www.voicerss.org/api/)
 
 ## Usage
 
-![Joke Teller](https://github.com/Dakarakoso/Quote-Generator/blob/main/images/usage.gif)
+![Joke Teller]()
 
 <!-- CONTACT -->
 
 ## Contact
 
 Willian Negishi - willian_jvm@hotmail.com
-Project Link: [https://github.com/Dakarokoso/Joker-Teller](https://github.com/Dakarakoso/Quote-Generator)
+Project Link: [https://github.com/Dakarokoso/Joker-Teller](https://github.com/Dakarakoso/Joke-Teller/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
